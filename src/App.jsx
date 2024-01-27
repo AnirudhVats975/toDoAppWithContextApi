@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { TodoProvider } from "./context";
-import { TodoForm, TodoItem } from "./components";
+import { TodoForm, TodoItem } from "./components/Index.js";
 import Footer from "./components/Footer";
 
 function App() {
